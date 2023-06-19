@@ -16,6 +16,7 @@ The machine learning models utilized in this project include linear regression a
 The project achieved promising results in predicting finger flexion using intracranial EEG data. The developed machine learning models achieved a correlation coefficient of up to 0.45, indicating a moderate association between the EEG signals and finger flexion. These results demonstrate the potential of using intracranial EEG for predicting and decoding motor movements.
 
 ## Author
+[![LinkedIn](https://img.shields.io/badge/-Li--Pu%20Chen-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lipuchen/)
 
 - [Li-Pu Chen](mailto:phil.lipuchen@gmail.com)
 
